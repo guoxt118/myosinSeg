@@ -18,3 +18,7 @@ test.py: Test and evaluate the model
 train.py: Train the model
 
 utils.py: Utility function
+
+The part code of the training model and the test model refer to https://github.com/Beckschen/TransUNet
+
+The code of the attention mechanism refers to https://github.com/luuuyi/CBAM.PyTorch
